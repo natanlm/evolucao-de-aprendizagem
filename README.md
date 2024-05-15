@@ -1,22 +1,22 @@
-# evolucao-de-aprendizagem
-Repositório referente ao desafio de Carreira do M02
-
-<h1>Conteúdo modelo no GitHub</h1>
-
-<h2>Conteúdos a serem trabalhados nesse módulo:</h2>
-
-<ul>
-    <li>Soft skills</li>
-    <li>LinkedIn</li>
-    <li>Ética em tecnologia</li>
-    <li>Gestão de tempo</li>
-    <li>Git básico</li>
-    <li>Introdução a TypeScript</li>
-    <li>Métodos de strings</li>
-    <li>Métodos de arrays</li>
-</ul>
-
-<h2>O que eu já sei sobre os assuntos que serão abordados nesse módulo?</h2>
+<h1>Desafio de Carreira - M02</h1>
+    <h2>Conteúdos a serem trabalhados nesse módulo:</h2>
+        <h3>Carreira: </h3>
+                <ul>
+                    <li>Gestão de tempo</li>
+                    <li>Currículo e carta de apresentação</li>
+                    <li>LinkedIn: primeiros passos</li>
+                </ul>
+        <h3>Lógica de Programação: </h3>
+                <ul>
+                    <li>Funções</li>
+                    <li>Tipos de Dados II</li>
+                    <li>Tipos Utilitários</li>
+                    <li>Métodos de strings</li>
+                    <li>Métodos de arrays I</li>
+                    <li>Métodos de arrays II</li>
+                    <li>Métodos de arrays III</li>
+                </ul>           
+    <h2>O que eu já sei sobre os assuntos que serão abordados nesse módulo?</h2>
 
 Soft skills são habilidades importantes no ambiente de trabalho, como comunicação e trabalho em equipe.
 LinkedIn é uma plataforma onde as pessoas podem criar perfis profissionais e se conectar com outras na área.
