@@ -19,7 +19,7 @@
     <h2>O que eu já sei sobre os assuntos que serão abordados nesse módulo?</h2>
             <h3>Carreira: </h3>
                 <ul>
-                    <li>Gestão de tempo: </li>
+                    <li>Gestão de tempo</li>
                         <p>→ Uma metodologia ou mesmo sistemas que auxiliam a pessoa a gerir melhor sua rotina, tarefas ou mesmos compromissos pessoais num período sem comprometer ou sobrecarregar seu dia.</p>
                     <li>Currículo e carta de apresentação</li>
                         <p>→ Currículo é o documento na qual a empresa tem o primeiro contato com o candidato, observando as qualidades, experiencias e sua formação descrita. A carta de apresentação seria um documento para mostrar suas motivações para a empresa escolher o indivíduo. </p>
@@ -56,7 +56,7 @@
                     <li>Tipos de Dados II</li>
                         <p>→ Entender melhor a sua aplicação e como isso impacta o código. Além disso, aprender a lidar e como retornar o que se pede.</p>
                     <li>Tipos Utilitários</li>
-                        <p>→ </p>
+                        <p>→ Como manipular e entender quando terceiros manipularam. Além de saber identificar o que está sendo e por que está sendo feito.</p>
                     <li>Métodos de strings</li>
                         <p>→ Aprender a utilizar de forma correta e suas possibilidades de utilização e suas limitações.</p>
                     <li>Métodos de arrays I, II e III</li>
@@ -66,20 +66,23 @@
             <h3>Carreira: </h3>
                 <ul>
                     <li>Gestão de tempo</li>
+                        <p>→ </p>
                     <li>Currículo e carta de apresentação</li>
+                        <p>→ </p>
                     <li>LinkedIn: primeiros passos</li>
+                        <p>→ </p>
                 </ul>
         <h3>Lógica de Programação: </h3>
                 <ul>
                     <li>Funções</li>
+                        <p>→ </p>
                     <li>Tipos de Dados II</li>
+                        <p>→ </p>
                     <li>Tipos Utilitários</li>
+                        <p>→ </p>
                     <li>Métodos de strings</li>
+                        <p>→ </p>
                     <li>Métodos de arrays I, II e III</li>
+                        <p>→ </p>
                 </ul>  
-Aprendi como criar um perfil no LinkedIn e adicionar minhas habilidades e experiências para compartilhar com outras pessoas.
-Entendi que ética em tecnologia significa pensar sobre as consequências de nossas ações tecnológicas e agir de maneira responsável.
-Aprendi algumas estratégias simples de gerenciamento de tempo, como fazer listas de tarefas e definir prioridades.
-Aprendi como usar o Git para controlar as diferentes versões de um projeto e colaborar com outras pessoas.
-Aprendi alguns métodos básicos de strings, como concatenar e dividir texto.
-Aprendi alguns métodos básicos de arrays, como adicionar e remover itens de uma lista.
+
