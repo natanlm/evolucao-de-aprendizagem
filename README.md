@@ -66,9 +66,16 @@
             <h3>Carreira: </h3>
                 <ul>
                     <li>Gestão de tempo</li>
-                        <p>→ </p>
+                        <p>→ Foram apresentados quatro temas importantes: planejamento, cronograma, ferramentas e urgência de tarefas.</p>
+                        <p> → Com o planejamento entendi que todas as áreas de um indivíduo podem ser divididas em metas de curtas, medias e de longo prazo para guiar onde quer chegar. </p>
+                        <p> → Com o cronograma entender melhor o quanto de tempo você mesmo leva para realizar cada atividade e como organizar isso no seu dia a dia. </p>
+                        <p> → As ferramentas podem ser tanto físicas como papel e caneta, como digitais Trello, Notion ou mesmo Google Calendar, a importância é conseguir visualizar e utilizar a teu favor. </p>
+                        <p> → A urgência das tarefas que são divididas em níveis de mais urgência a delegar para outra pessoa. </p>
+                        <p> → Mesmo com toda a gestão de tempo, ter um tempo longe da tela é tão importante como criar uma rotina de trabalho, assim não ficando sobrecarregado e nem desfocado do que precisa ser feito.</p>
                     <li>Currículo e carta de apresentação</li>
-                        <p>→ </p>
+                        <p>→ Antes de estrutura o currículo é necessário fazer uma autoanalise das coisas que voce busca numa empresa, junto aos seus pontos fortes e fracos para a vaga que está se candidatando. </p>
+                        <p>→Com uma vaga escolhida, a necessidade de se criar um currículo que se adeque de maneira simples e clara, listando as principais informações que tem relevância para a área da mais atual para as mais antigas. </p>
+                        <p>→A utilização da IA contra ela mesma, uma vez que é ela que acaba ‘garimpando’ quem dá continuidade ao processo. </p>
                     <li>LinkedIn: primeiros passos</li>
                         <p>→ </p>
                 </ul>
