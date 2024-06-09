@@ -83,14 +83,18 @@
         <h3>Lógica de Programação: </h3>
                 <ul>
                     <li>Funções:</li>
-                        <p>→ </p>
+                        <p>→ Ao final da aula é possível entender o propósito das funções, que nada mais é a de facilitar a execução de tarefas quando há muita informação repetitiva. Foi visto duas formas de trabalha com função: function e arrow function. Também foi visto como definir o tipo de dados do parâmetro e como isso afeta e auxilia na execução do código. </p>
                     <li>Tipos de Dados II:</li>
-                        <p>→ </p>
+                        <p>→ Foi reforçado o que é e para que serve o type, como também a maneira de executar o código quando se tem muitos elementos dentro de um array. Além dos tipos genéricos, foi apresentado o tipo literal e como utilizar em possíveis casos do dia a dia. A utilização de união de tipos que é por ‘|’ e tipos de conjuntos que precisa de ‘&’. Foi visto Type Narrowing que é o estreitamento para deixar mais assertivo o tipo utilizado e Type Assertion que serve para força um tipo quando você desconhece ou vem de outro código.</p>
                     <li>Tipos Utilitários:</li>
-                        <p>→ </p>
+
                     <li>Métodos de strings:</li>
-                        <p>→ </p>
+                        <p>→ Ao final da aula, aprendi diferentes maneiras de manipular a string, desde a eliminação de espaços vazios antes e depois das palavras, como padronizar as palavras deixando-as em maiúsculas ou minúsculas.
+                        <p>Também visto formas extrair quantidades de caracteres partindo do início ou final da string, ou mesmo substituir uma ou todas as strings por outra. Foi apresentado uma forma de autocompletar com espaços em branco ou texto tanto antes ou após a string.</p>
+                        <p>Por último, dois métodos de retorna, um sendo pelo índice de uma string e o outro por método booleano, caso tenha encontrado ou não. </p>
                     <li>Métodos de arrays I, II e III:</li>
-                        <p>→ </p>
+                        <p>→ Foram apresentadas funções nativas do typescript que facilitam a manipulação de array, como acrescentar ou remover elementos do array, podendo ser feito antes ou após o array. Também é possível verificar a posição do elemento dentro do array ou até mesmo se ele existe ou não.
+Foi visto como inverter a ordem do array, unir elementos que estão dentro do array e retornar uma parte apenas do array definindo o inicio e/ou final a partir do índice informado.
+</p>
                 </ul>  
 
