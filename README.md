@@ -87,9 +87,10 @@
                     <li>Tipos de Dados II:</li>
                         <p>→ Foi reforçado o que é e para que serve o type, como também a maneira de executar o código quando se tem muitos elementos dentro de um array. Além dos tipos genéricos, foi apresentado o tipo literal e como utilizar em possíveis casos do dia a dia. A utilização de união de tipos que é por ‘|’ e tipos de conjuntos que precisa de ‘&’. Foi visto Type Narrowing que é o estreitamento para deixar mais assertivo o tipo utilizado e Type Assertion que serve para força um tipo quando você desconhece ou vem de outro código.</p>
                     <li>Tipos Utilitários:</li>
-                        <p>→ </p>
-                        <p>→ </p>
-                        <p>→ </p>
+                        <p>→ Há diferentes de manipulação, sendo possível até mesmos manipular os tipos. É possível manipular as propriedades que sejam requisitadas de forma parcial ou até mesma de forma obrigatória, como também a definição que impede alteração deixando apenas como leitura. </p>
+                        <p>→ Também foi visto como criar tipo selecionando apenas propriedades que deseja ou mesmo excluindo propriedades especificas quando há muitas no mesmo tipo. </p>
+                        <p>→ Algumas vezes quando muitas propriedades do mesmo tipo são possíveis utilizar um utilitário que permite definir todos as propriedades com o mesmo tipo sem a necessidade de repetir no código.</p>
+                        <p>→ Quando se tem tipos com muitas propriedades também é possível utilizar um utilitário que exclui os tipos que deseja e retorna todo o restante. Mas também é possível utilizar um utilitário que extrai o que você quer e retorna em um novo tipo tudo aquilo que extraiu.</p>
                     <li>Métodos de strings:</li>
                         <p>→ Ao final da aula, aprendi diferentes maneiras de manipular a string, desde a eliminação de espaços vazios antes e depois das palavras, como padronizar as palavras deixando-as em maiúsculas ou minúsculas.</p>
                         <p>→ Também visto formas extrair quantidades de caracteres partindo do início ou final da string, ou mesmo substituir uma ou todas as strings por outra. Foi apresentado uma forma de autocompletar com espaços em branco ou texto tanto antes ou após a string.</p>
