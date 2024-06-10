@@ -87,14 +87,23 @@
                     <li>Tipos de Dados II:</li>
                         <p>→ Foi reforçado o que é e para que serve o type, como também a maneira de executar o código quando se tem muitos elementos dentro de um array. Além dos tipos genéricos, foi apresentado o tipo literal e como utilizar em possíveis casos do dia a dia. A utilização de união de tipos que é por ‘|’ e tipos de conjuntos que precisa de ‘&’. Foi visto Type Narrowing que é o estreitamento para deixar mais assertivo o tipo utilizado e Type Assertion que serve para força um tipo quando você desconhece ou vem de outro código.</p>
                     <li>Tipos Utilitários:</li>
-
+                        <p>→ </p>
+                        <p>→ </p>
+                        <p>→ </p>
                     <li>Métodos de strings:</li>
-                        <p>→ Ao final da aula, aprendi diferentes maneiras de manipular a string, desde a eliminação de espaços vazios antes e depois das palavras, como padronizar as palavras deixando-as em maiúsculas ou minúsculas.
-                        <p>Também visto formas extrair quantidades de caracteres partindo do início ou final da string, ou mesmo substituir uma ou todas as strings por outra. Foi apresentado uma forma de autocompletar com espaços em branco ou texto tanto antes ou após a string.</p>
-                        <p>Por último, dois métodos de retorna, um sendo pelo índice de uma string e o outro por método booleano, caso tenha encontrado ou não. </p>
-                    <li>Métodos de arrays I, II e III:</li>
-                        <p>→ Foram apresentadas funções nativas do typescript que facilitam a manipulação de array, como acrescentar ou remover elementos do array, podendo ser feito antes ou após o array. Também é possível verificar a posição do elemento dentro do array ou até mesmo se ele existe ou não.
-Foi visto como inverter a ordem do array, unir elementos que estão dentro do array e retornar uma parte apenas do array definindo o inicio e/ou final a partir do índice informado.
-</p>
+                        <p>→ Ao final da aula, aprendi diferentes maneiras de manipular a string, desde a eliminação de espaços vazios antes e depois das palavras, como padronizar as palavras deixando-as em maiúsculas ou minúsculas.</p>
+                        <p>→ Também visto formas extrair quantidades de caracteres partindo do início ou final da string, ou mesmo substituir uma ou todas as strings por outra. Foi apresentado uma forma de autocompletar com espaços em branco ou texto tanto antes ou após a string.</p>
+                        <p>→ Por último, dois métodos de retorna, um sendo pelo índice de uma string e o outro por método booleano, caso tenha encontrado ou não. </p>
+                    <li>Métodos de arrays I:</li>
+                        <p>→ Foram apresentadas funções nativas do typescript que facilitam a manipulação de array, como acrescentar ou remover elementos do array, podendo ser feito antes ou após o array. Também é possível verificar a posição do elemento dentro do array ou até mesmo se ele existe ou não.</p>
+                        <p>→ Foi visto como inverter a ordem do array, unir elementos que estão dentro do array e retornar uma parte apenas do array definindo o inicio e/ou final a partir do índice informado.</p>
+                    <li>Métodos de arrays II:</li>
+                        <p>→ Foram apresentadas formas nativas utilizando tempo para mostrar o que se pedia. Além disso, duas formas de verificação, uma na qual todos os elementos precisam ser verdadeiros para retornar ‘true’ e outros onde apenas um elemento precisa ser verdadeiro para validar o teste.</p>
+                        <p>→ Outras funções nativas são as buscas de elementos dentro do array, enquanto possuía uma que retorna o elemento caso exista, possui outra que retorna o índice do elemento dentro do array.</p>
+                        <p>→ Uma função que é bastante útil foi de filtragem do array, pois ele filtra e retorna um novo array com todos os elementos encontrados. Enquanto há outro que percorre o array e retorna com um novo formato que a própria pessoa precisa.</p>
+                    <li>Métodos de arrays III:</li>
+                        <p>→ Outras funções nativas foram a de ordenação de elementos de um array, enquanto uma função é para o tipo numérico e utiliza o código Unicode para ordenar, a outra função é usada para o tipo string.</p>
+                        <p>→ Utilizar o código Unicode implica em não ter um array em ordem crescente ou descrente de forma correta para o usuário, foi visto formas de deixar corretamente a ordenação para o usuário. </p>
+                        <p>→ Uma última função apresentada foi a de redução, ela reduz todos os elementos de um array ou de vários arrays em apenas um único valor, sempre acumulando os valores até chegar em apenas um único valor acumulado. </p>
                 </ul>  
 
